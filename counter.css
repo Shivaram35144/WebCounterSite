@@ -1,0 +1,79 @@
+html{
+    color:aquamarine;
+    background: linear-gradient( rgb(15, 39, 174),rgb(18, 190, 52));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+#increasebutton{
+    background-color: rgb(178, 181, 11);
+    color:rgb(14, 162, 56);
+    padding: 15px 32px;
+    text-decoration:double;
+    display:inline-flex;
+    font-size: 16px;
+    text-align: left;
+}
+#increasebutton:hover{
+    color: rgb(178, 181, 11);
+    background-color:rgb(14, 162, 56);
+    padding: 15px 32px;
+    text-decoration:double;
+    display:inline-flex;
+    font-size: 16px;
+    text-align: left;
+}
+
+#decreasebutton{
+    background-color: rgb(178, 181, 11);
+    color:rgb(14, 162, 56);
+    padding: 15px 32px;
+    text-decoration:double;
+    display:inline-flex;
+    font-size: 16px;
+    text-align: center;
+}
+#decreasebutton:hover{
+    color: rgb(178, 181, 11);
+    background-color:rgb(14, 162, 56);
+    padding: 15px 32px;
+    text-decoration:double;
+    display:inline-flex;
+    font-size: 16px;
+    text-align: left;
+}
+
+
+#resetbutton{
+    background-color: rgb(178, 181, 11);
+    color:rgb(14, 162, 56);
+    padding: 15px 32px;
+    text-decoration:double;
+    display:inline-flex;
+    font-size: 16px;
+    text-align: right;
+}
+#resetbutton:hover{
+    color: rgb(178, 181, 11);
+    background-color:rgb(14, 162, 56);
+    padding: 15px 32px;
+    text-decoration:double;
+    display:inline-flex;
+    font-size: 16px;
+    text-align: left;
+}
+
+
+#countlabel{
+    display:block ;
+    text-align: center;
+    font-size: 100px;
+    color:rgb(225, 56, 56);
+    position:sticky;
+
+}
+
